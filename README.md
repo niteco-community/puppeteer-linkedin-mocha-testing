@@ -15,9 +15,9 @@ Automated the Testing using Puppeteer, Mocha, chai. For example we can use linki
  6. node-cmd (Run Command Line command)
  
  ## Installation
-  1. clone the project `https://github.com/tariqulislam/puppeteer-mocha-automated-testing.git`
-  2. go to folder `cd puppeteer-mocha-automated-testing`
-  3. run `npm install`
+  1. clone the project 'https://github.com/niteco-community/puppeteer-linkedin-mocha-testing.git'
+  2. go to folder 'puppeteer-linkedin-mocha-testing'
+  3. run 'npm install'
  
  ## Directory Structure
 
@@ -39,8 +39,8 @@ Automated the Testing using Puppeteer, Mocha, chai. For example we can use linki
  
  ## configure to run sample Automated Test
  
- 1. Open the file `test/configs/linkedin.js`
+ 1. Open the file 'test/configs/linkedin.js'
  2. Add the Linkedin email or user name
  3. Add the Password
  4. Add the validator
- 4. Then run the predefiend test by `npm test` form command line
+ 4. Then run the predefiend test by 'npm test' form command line
